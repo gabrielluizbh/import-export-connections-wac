@@ -1,8 +1,8 @@
-# Script de importação e exportação de conexões no Windows Admin Center.
+# Script de importação e exportação de conexões no Windows Admin Center pelo Powershell.
 
 Conteúdos:
 
-Script de importação e exportação de conexões no Windows Admin Center.ps1
+Script de importação e exportação de conexões no Windows Admin Center pelo Powershell.ps1
 
 Script de levantamento de computadores do ADDS.ps1
 
