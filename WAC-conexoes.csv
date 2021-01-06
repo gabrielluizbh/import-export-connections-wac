@@ -1,0 +1,7 @@
+"name","type","tags","groupId"
+"ADDS.gabrielluiz.local","msft.sme.connection-type.server","hyperv"
+"MeuDesktop.gabrielluiz.local","msft.sme.connection-type.windows-client","hyperv"
+"Gabrielcluster.gabrielluiz.local","msft.sme.connection-type.cluster","Cluster legado|WS2016","global"
+"GabrielHCIcluster.gabrielluiz.local,"msft.sme.connection-type.hyper-converged-cluster","GabrielHCIcluster|hyperv|GAB|WS2019"
+"GabrielclusterNode.gabrielluiz.local","msft.sme.connection-type.server","Cluster legado|WS2016","global"
+"GabrielHCIclusterNode.gabrielluiz.local","msft.sme.connection-type.server","GabrielHCIcluster|hyperv|GAB|WS2019"
